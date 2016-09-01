@@ -12,5 +12,9 @@ color:
     - '#6E7A93'
 layout_spectrum: 0.44362982572056353
 name: ContentIsKing
+navigation:
+  - name: More
+    url: www.ContentIsKing.co
+    type: external
 title: 'Add Value, Not Noise'
 description: Content Is King
