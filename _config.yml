@@ -19,5 +19,8 @@ navigation:
   - name: Twitter
     url: www.Twitter.com/TheRealRhodri
     type: external
+  - name: Instagram
+    url: www.Instagram.com/TheRealRhodri
+    type: external
 title: Content Is King
 description: 'Add Value, Not Noise'
