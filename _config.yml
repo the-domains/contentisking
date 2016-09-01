@@ -1,4 +1,3 @@
-layout_spectrum: 0.44362982572056353
 typography_spectrum: 0.45107254618778825
 color:
   brandStrength: 0.8251422757748514
@@ -11,4 +10,7 @@ color:
     - '#B8BBC0'
     - '#243950'
     - '#6E7A93'
+layout_spectrum: 0.44362982572056353
 name: ContentIsKing
+title: 'Add Value, Not Noise'
+description: Content Is King
