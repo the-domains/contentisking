@@ -16,5 +16,8 @@ navigation:
   - name: More
     url: www.ContentIsKing.co
     type: external
+  - name: Twitter
+    url: www.Twitter.com/TheRealRhodri
+    type: external
 title: Content Is King
 description: 'Add Value, Not Noise'
