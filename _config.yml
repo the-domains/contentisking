@@ -1,3 +1,4 @@
+layout_spectrum: 0.44362982572056353
 typography_spectrum: 0.45107254618778825
 color:
   brandStrength: 0.8251422757748514
@@ -5,22 +6,9 @@ color:
   saturation: 0.9698054594919086
   rhythmicContrast: 0.6266808761283755
   brandColors:
-    - '#020202'
-    - '#EBE8E3'
-    - '#B8BBC0'
-    - '#243950'
-    - '#6E7A93'
-layout_spectrum: 0.44362982572056353
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: ContentIsKing
-navigation:
-  - name: More
-    url: www.ContentIsKing.co
-    type: external
-  - name: Twitter
-    url: www.Twitter.com/TheRealRhodri
-    type: external
-  - name: Instagram
-    url: www.Instagram.com/TheRealRhodri
-    type: external
-title: Content Is King
-description: 'Add Value, Not Noise'
